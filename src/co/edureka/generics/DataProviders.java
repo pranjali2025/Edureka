@@ -12,7 +12,7 @@ public class DataProviders {
 		credentials[0][0]="pranjali.yadav2025@gmail.com";
 		credentials[0][1]="pranjali.yadav2025@3073";
 		credentials[1][0]="pranjali.yadav2025@gmail.com";
-		credentials[1][1]="pranjali.yadav2025@3073";
+		credentials[1][1]="pranjali.yadav2025@3013";
 		
 		return credentials;
 		
