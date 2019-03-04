@@ -449,3 +449,5 @@
 2019-03-03 20:41:48 INFO  BasePage:42 - Enroll clicked
 2019-03-03 20:41:57 ERROR BasePage:43 - URL check ==>>null and payment are not matched.
 2019-03-03 20:42:09 ERROR BasePage:52 - Select Batch not clicked
+2019-03-03 20:42:21 ERROR BasePage:78 - Enroll not clicked
+2019-03-03 20:42:27 ERROR BasePage:43 - URL check ==>>null and payment are not matched.
