@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Edureka" duration-ms="104638" started-at="2019-03-04T00:11:47Z" finished-at="2019-03-04T00:13:32Z">
+    <groups>
+    </groups>
+    <test name="RegressionTest" duration-ms="104638" started-at="2019-03-04T00:11:47Z" finished-at="2019-03-04T00:13:32Z">
+      <class name="co.edureka.testscripts.OrderCourse">
+        <test-method status="PASS" signature="launchApplication(java.lang.String)[pri:0, instance:co.edureka.testscripts.OrderCourse@71318ec4]" name="launchApplication" is-config="true" duration-ms="8429" started-at="2019-03-04T00:11:47Z" finished-at="2019-03-04T00:11:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="TC01_Order_Course(java.lang.String, java.lang.String)[pri:0, instance:co.edureka.testscripts.OrderCourse@71318ec4]" name="TC01_Order_Course" duration-ms="38200" started-at="2019-03-04T00:11:56Z" data-provider="getData" finished-at="2019-03-04T00:12:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pranjali.yadav2025@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pranjali.yadav2025@3073]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_Order_Course -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:co.edureka.testscripts.OrderCourse@71318ec4]" name="closeApplication" is-config="true" duration-ms="725" started-at="2019-03-04T00:12:34Z" finished-at="2019-03-04T00:12:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method status="PASS" signature="launchApplication(java.lang.String)[pri:0, instance:co.edureka.testscripts.OrderCourse@71318ec4]" name="launchApplication" is-config="true" duration-ms="8284" started-at="2019-03-04T00:12:35Z" finished-at="2019-03-04T00:12:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="TC01_Order_Course(java.lang.String, java.lang.String)[pri:0, instance:co.edureka.testscripts.OrderCourse@71318ec4]" name="TC01_Order_Course" duration-ms="48287" started-at="2019-03-04T00:12:43Z" data-provider="getData" finished-at="2019-03-04T00:13:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pranjali.yadav2025@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pranjali.yadav2025@3073]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_Order_Course -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:co.edureka.testscripts.OrderCourse@71318ec4]" name="closeApplication" is-config="true" duration-ms="688" started-at="2019-03-04T00:13:31Z" finished-at="2019-03-04T00:13:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- co.edureka.testscripts.OrderCourse -->
+    </test> <!-- RegressionTest -->
+  </suite> <!-- Edureka -->
+</testng-results>

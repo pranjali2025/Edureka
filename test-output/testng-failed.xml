@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Edureka]">
+  <listeners>
+    <listener class-name="co.edureka.generics.ITest"/>
+  </listeners>
+  <test thread-count="5" name="RegressionTest(failed)">
+    <parameter name="browser" value="CHROME"/>
+    <classes>
+      <class name="co.edureka.testscripts.OrderCourse">
+        <methods>
+          <include name="closeApplication"/>
+          <include name="launchApplication"/>
+          <include name="TC01_Order_Course" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- co.edureka.testscripts.OrderCourse -->
+    </classes>
+  </test> <!-- RegressionTest(failed) -->
+</suite> <!-- Failed suite [Edureka] -->
