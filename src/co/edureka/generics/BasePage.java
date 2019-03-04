@@ -20,7 +20,7 @@ public class BasePage {
 	}
 
 	public void verifyTitle(String exp_title) {
-		WebDriverWait wait = new WebDriverWait(driver, 3);
+		WebDriverWait wait = new WebDriverWait(driver, 10);
 		String act_title = null;
 		try {
 			wait.until(ExpectedConditions.titleIs(exp_title));
@@ -33,7 +33,7 @@ public class BasePage {
 	}
 
 	public void verifyUrl(String exp_url){
-		WebDriverWait wait = new WebDriverWait(driver, 3);
+		WebDriverWait wait = new WebDriverWait(driver, 10);
 		String act_url = null;
 		try {
 			wait.until(ExpectedConditions.urlContains(exp_url));
@@ -44,7 +44,7 @@ public class BasePage {
 		}
 	}	
 	public void verifyElementPresent(WebElement Ele) {
-		WebDriverWait wait = new WebDriverWait(driver, 3);
+		WebDriverWait wait = new WebDriverWait(driver, 10);
 		try {
 			wait.until(ExpectedConditions.visibilityOf(Ele));
 			log.info("Element Found " + Ele);
@@ -54,7 +54,7 @@ public class BasePage {
 	}
 
 	public void switchBrowser(String urlValue) {
-		WebDriverWait wait = new WebDriverWait(driver, 3);
+		WebDriverWait wait = new WebDriverWait(driver, 10);
 		try {
 			String oldTab = driver.getWindowHandle();
 			ArrayList<String> newTab = new ArrayList<String>(driver.getWindowHandles());

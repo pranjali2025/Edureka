@@ -324,3 +324,128 @@
 2019-03-03 19:13:26 ERROR BasePage:62 - Add Line 2 not entered
 2019-03-03 19:13:29 ERROR BasePage:75 - Add Line 3 not entered
 2019-03-03 19:13:31 ERROR BaseTest:59 - TC01 Failed
+2019-03-03 20:36:55 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (20d4580df445c66dfc663f74c5249050)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']]
+2019-03-03 20:36:57 INFO  BasePage:48 - Login Button Clicked
+2019-03-03 20:36:57 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (20d4580df445c66dfc663f74c5249050)] -> xpath: //input[@id='si_popup_email']]
+2019-03-03 20:36:58 INFO  BasePage:59 - Email Entered
+2019-03-03 20:36:58 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (20d4580df445c66dfc663f74c5249050)] -> xpath: //input[@id='si_popup_passwd']]
+2019-03-03 20:36:58 INFO  BasePage:71 - Password Entered
+2019-03-03 20:36:58 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (20d4580df445c66dfc663f74c5249050)] -> xpath: //button[@class='clik_btn_log btn-block pagesense_en_track']]
+2019-03-03 20:37:00 INFO  BasePage:83 - Login Button Clicked
+2019-03-03 20:37:03 ERROR BasePage:31 - null and Instructor are not matched.
+2019-03-03 20:37:03 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (20d4580df445c66dfc663f74c5249050)] -> id: search-inp]
+2019-03-03 20:37:05 INFO  BasePage:39 - Value Entered in searchbox
+2019-03-03 20:37:06 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (20d4580df445c66dfc663f74c5249050)] -> xpath: //div[@class='card giTrackElement giTrackElementHover']]
+2019-03-03 20:37:11 INFO  BasePage:55 - Course clicked
+2019-03-03 20:37:11 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (20d4580df445c66dfc663f74c5249050)] -> xpath: //button[text()='ENROLL NOW PAY LATER']]
+2019-03-03 20:37:12 INFO  BasePage:42 - Enroll clicked
+2019-03-03 20:37:15 ERROR BasePage:43 - URL check ==>>null and payment are not matched.
+2019-03-03 20:37:57 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (b0ce2fd0b517419283a9a09de2537d25)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']]
+2019-03-03 20:37:59 INFO  BasePage:48 - Login Button Clicked
+2019-03-03 20:37:59 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (b0ce2fd0b517419283a9a09de2537d25)] -> xpath: //input[@id='si_popup_email']]
+2019-03-03 20:37:59 INFO  BasePage:59 - Email Entered
+2019-03-03 20:38:00 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (b0ce2fd0b517419283a9a09de2537d25)] -> xpath: //input[@id='si_popup_passwd']]
+2019-03-03 20:38:00 INFO  BasePage:71 - Password Entered
+2019-03-03 20:38:00 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (b0ce2fd0b517419283a9a09de2537d25)] -> xpath: //button[@class='clik_btn_log btn-block pagesense_en_track']]
+2019-03-03 20:38:01 INFO  BasePage:83 - Login Button Clicked
+2019-03-03 20:38:05 ERROR BasePage:31 - null and Instructor are not matched.
+2019-03-03 20:38:05 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (b0ce2fd0b517419283a9a09de2537d25)] -> id: search-inp]
+2019-03-03 20:38:08 INFO  BasePage:39 - Value Entered in searchbox
+2019-03-03 20:38:08 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (b0ce2fd0b517419283a9a09de2537d25)] -> xpath: //div[@class='card giTrackElement giTrackElementHover']]
+2019-03-03 20:38:13 INFO  BasePage:55 - Course clicked
+2019-03-03 20:38:13 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (b0ce2fd0b517419283a9a09de2537d25)] -> xpath: //button[text()='ENROLL NOW PAY LATER']]
+2019-03-03 20:38:14 INFO  BasePage:42 - Enroll clicked
+2019-03-03 20:38:17 INFO  BasePage:41 - URL check ==>>https://www.edureka.co/payment and payment matched.
+2019-03-03 20:38:17 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (b0ce2fd0b517419283a9a09de2537d25)] -> xpath: //label[@data-batch-id='12117']]
+2019-03-03 20:38:19 INFO  BasePage:50 - Select Batch clicked
+2019-03-03 20:38:19 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (b0ce2fd0b517419283a9a09de2537d25)] -> xpath: (//button[text()='PROCEED TO PAYMENT'])[1]]
+2019-03-03 20:38:21 INFO  BasePage:76 - Enroll clicked
+2019-03-03 20:38:21 INFO  BasePage:41 - URL check ==>>https://www.edureka.co/payment and payment matched.
+2019-03-03 20:38:21 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (b0ce2fd0b517419283a9a09de2537d25)] -> xpath: //iframe[@class='zoid-component-frame zoid-visible']]
+2019-03-03 20:38:22 INFO  BasePage:88 - Pay Iframe Switched
+2019-03-03 20:38:22 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (b0ce2fd0b517419283a9a09de2537d25)] -> xpath: //img[@alt='visa']]
+2019-03-03 20:38:23 INFO  BasePage:63 - PAy mehtod clicked
+2019-03-03 20:38:28 INFO  BasePage:64 - Browser Switch Successful
+2019-03-03 20:38:28 INFO  BasePage:41 - URL check ==>>https://www.paypal.com/webapps/xoonboarding?locale.x=en_US&fundingSource=card&sessionID=40ee654a53_gaytumzyhiytm&buttonSessionID=29aeebfaa9_gaytumzyhiyto&env=production&fundingOffered=paypal%2Ccredit%2Ccard%2Ccard%2Ccard%2Ccard%2Ccard&logLevel=warn&sdkMeta=eyJ1cmwiOiJodHRwczovL3d3dy5wYXlwYWxvYmplY3RzLmNvbS9hcGkvY2hlY2tvdXQuanMifQ%3D%3D&uid=32047d8db9&version=4&token=PAYID-LR6IDDQ40R56265YP9906425&xcomponent=1 and paypal matched.
+2019-03-03 20:38:31 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (b0ce2fd0b517419283a9a09de2537d25)] -> id: billingLine1]
+2019-03-03 20:38:31 INFO  BasePage:47 - Add Line 1 Enter
+2019-03-03 20:38:31 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (b0ce2fd0b517419283a9a09de2537d25)] -> id: billingLine2]
+2019-03-03 20:38:32 INFO  BasePage:60 - Add Line 2 Enter
+2019-03-03 20:38:33 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (b0ce2fd0b517419283a9a09de2537d25)] -> id: billingCity]
+2019-03-03 20:38:34 INFO  BasePage:73 - Add Line 3 Enter
+2019-03-03 20:38:34 INFO  BaseTest:57 - TC01 Passed
+2019-03-03 20:38:42 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (a5ae34a8d678e402f21b06dddce1077c)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']]
+2019-03-03 20:38:44 INFO  BasePage:48 - Login Button Clicked
+2019-03-03 20:38:44 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (a5ae34a8d678e402f21b06dddce1077c)] -> xpath: //input[@id='si_popup_email']]
+2019-03-03 20:38:44 INFO  BasePage:59 - Email Entered
+2019-03-03 20:38:45 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (a5ae34a8d678e402f21b06dddce1077c)] -> xpath: //input[@id='si_popup_passwd']]
+2019-03-03 20:38:45 INFO  BasePage:71 - Password Entered
+2019-03-03 20:38:45 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (a5ae34a8d678e402f21b06dddce1077c)] -> xpath: //button[@class='clik_btn_log btn-block pagesense_en_track']]
+2019-03-03 20:38:46 INFO  BasePage:83 - Login Button Clicked
+2019-03-03 20:38:49 ERROR BasePage:31 - null and Instructor are not matched.
+2019-03-03 20:38:49 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (a5ae34a8d678e402f21b06dddce1077c)] -> id: search-inp]
+2019-03-03 20:38:51 INFO  BasePage:39 - Value Entered in searchbox
+2019-03-03 20:38:52 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (a5ae34a8d678e402f21b06dddce1077c)] -> xpath: //div[@class='card giTrackElement giTrackElementHover']]
+2019-03-03 20:38:57 INFO  BasePage:55 - Course clicked
+2019-03-03 20:38:57 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (a5ae34a8d678e402f21b06dddce1077c)] -> xpath: //button[text()='ENROLL NOW PAY LATER']]
+2019-03-03 20:38:58 INFO  BasePage:42 - Enroll clicked
+2019-03-03 20:39:01 ERROR BasePage:43 - URL check ==>>null and payment are not matched.
+2019-03-03 20:39:31 ERROR BasePage:52 - Element Not foundProxy element for: DefaultElementLocator 'By.xpath: //label[@data-batch-id='12117']'
+2019-03-03 20:39:41 ERROR BasePage:52 - Select Batch not clicked
+2019-03-03 20:39:57 ERROR BasePage:78 - Enroll not clicked
+2019-03-03 20:40:00 ERROR BasePage:43 - URL check ==>>null and payment are not matched.
+2019-03-03 20:40:03 ERROR BasePage:90 - Pay Iframe Switch
+2019-03-03 20:40:06 ERROR BasePage:65 - PAy MEthod not clicked
+2019-03-03 20:40:06 ERROR BasePage:67 - Switch Browser failed
+2019-03-03 20:40:09 ERROR BasePage:43 - URL check ==>>null and paypal are not matched.
+2019-03-03 20:40:34 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (d07cce6f996c19bd9d956d6b821672d8)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']]
+2019-03-03 20:40:36 INFO  BasePage:48 - Login Button Clicked
+2019-03-03 20:40:36 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (d07cce6f996c19bd9d956d6b821672d8)] -> xpath: //input[@id='si_popup_email']]
+2019-03-03 20:40:36 INFO  BasePage:59 - Email Entered
+2019-03-03 20:40:37 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (d07cce6f996c19bd9d956d6b821672d8)] -> xpath: //input[@id='si_popup_passwd']]
+2019-03-03 20:40:37 INFO  BasePage:71 - Password Entered
+2019-03-03 20:40:37 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (d07cce6f996c19bd9d956d6b821672d8)] -> xpath: //button[@class='clik_btn_log btn-block pagesense_en_track']]
+2019-03-03 20:40:38 INFO  BasePage:83 - Login Button Clicked
+2019-03-03 20:40:48 ERROR BasePage:31 - null and Instructor are not matched.
+2019-03-03 20:40:48 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (d07cce6f996c19bd9d956d6b821672d8)] -> id: search-inp]
+2019-03-03 20:40:51 INFO  BasePage:39 - Value Entered in searchbox
+2019-03-03 20:40:51 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (d07cce6f996c19bd9d956d6b821672d8)] -> xpath: //div[@class='card giTrackElement giTrackElementHover']]
+2019-03-03 20:40:56 INFO  BasePage:55 - Course clicked
+2019-03-03 20:40:57 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (d07cce6f996c19bd9d956d6b821672d8)] -> xpath: //button[text()='ENROLL NOW PAY LATER']]
+2019-03-03 20:40:57 INFO  BasePage:42 - Enroll clicked
+2019-03-03 20:41:00 INFO  BasePage:41 - URL check ==>>https://www.edureka.co/payment and payment matched.
+2019-03-03 20:41:00 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (d07cce6f996c19bd9d956d6b821672d8)] -> xpath: //label[@data-batch-id='12117']]
+2019-03-03 20:41:03 INFO  BasePage:50 - Select Batch clicked
+2019-03-03 20:41:03 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (d07cce6f996c19bd9d956d6b821672d8)] -> xpath: (//button[text()='PROCEED TO PAYMENT'])[1]]
+2019-03-03 20:41:04 INFO  BasePage:76 - Enroll clicked
+2019-03-03 20:41:04 INFO  BasePage:41 - URL check ==>>https://www.edureka.co/payment and payment matched.
+2019-03-03 20:41:04 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (d07cce6f996c19bd9d956d6b821672d8)] -> xpath: //iframe[@class='zoid-component-frame zoid-visible']]
+2019-03-03 20:41:05 INFO  BasePage:88 - Pay Iframe Switched
+2019-03-03 20:41:05 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (d07cce6f996c19bd9d956d6b821672d8)] -> xpath: //img[@alt='visa']]
+2019-03-03 20:41:06 INFO  BasePage:63 - PAy mehtod clicked
+2019-03-03 20:41:11 INFO  BasePage:64 - Browser Switch Successful
+2019-03-03 20:41:11 INFO  BasePage:41 - URL check ==>>https://www.paypal.com/webapps/xoonboarding?locale.x=en_US&fundingSource=card&sessionID=5ce5d5e8b7_gaytunbrhiyda&buttonSessionID=0074520b9c_gaytunbrhiyda&env=production&fundingOffered=paypal%2Ccredit%2Ccard%2Ccard%2Ccard%2Ccard%2Ccard&logLevel=warn&sdkMeta=eyJ1cmwiOiJodHRwczovL3d3dy5wYXlwYWxvYmplY3RzLmNvbS9hcGkvY2hlY2tvdXQuanMifQ%3D%3D&uid=6078dcb5ed&version=4&token=PAYID-LR6IEMI71F45783Y3366563K&xcomponent=1 and paypal matched.
+2019-03-03 20:41:14 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (d07cce6f996c19bd9d956d6b821672d8)] -> id: billingLine1]
+2019-03-03 20:41:14 INFO  BasePage:47 - Add Line 1 Enter
+2019-03-03 20:41:14 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (d07cce6f996c19bd9d956d6b821672d8)] -> id: billingLine2]
+2019-03-03 20:41:15 INFO  BasePage:60 - Add Line 2 Enter
+2019-03-03 20:41:15 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (d07cce6f996c19bd9d956d6b821672d8)] -> id: billingCity]
+2019-03-03 20:41:16 INFO  BasePage:73 - Add Line 3 Enter
+2019-03-03 20:41:16 INFO  BaseTest:57 - TC01 Passed
+2019-03-03 20:41:25 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (dc7b473e03271074b4a17833f03fb597)] -> xpath: //a[@class='signin top-signin giTrackElementHeader hidden-xs']]
+2019-03-03 20:41:26 INFO  BasePage:48 - Login Button Clicked
+2019-03-03 20:41:26 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (dc7b473e03271074b4a17833f03fb597)] -> xpath: //input[@id='si_popup_email']]
+2019-03-03 20:41:26 INFO  BasePage:59 - Email Entered
+2019-03-03 20:41:27 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (dc7b473e03271074b4a17833f03fb597)] -> xpath: //input[@id='si_popup_passwd']]
+2019-03-03 20:41:27 INFO  BasePage:71 - Password Entered
+2019-03-03 20:41:27 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (dc7b473e03271074b4a17833f03fb597)] -> xpath: //button[@class='clik_btn_log btn-block pagesense_en_track']]
+2019-03-03 20:41:28 INFO  BasePage:83 - Login Button Clicked
+2019-03-03 20:41:38 ERROR BasePage:31 - null and Instructor are not matched.
+2019-03-03 20:41:38 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (dc7b473e03271074b4a17833f03fb597)] -> id: search-inp]
+2019-03-03 20:41:41 INFO  BasePage:39 - Value Entered in searchbox
+2019-03-03 20:41:41 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (dc7b473e03271074b4a17833f03fb597)] -> xpath: //div[@class='card giTrackElement giTrackElementHover']]
+2019-03-03 20:41:47 INFO  BasePage:55 - Course clicked
+2019-03-03 20:41:47 INFO  BasePage:50 - Element Found [[ChromeDriver: chrome on XP (dc7b473e03271074b4a17833f03fb597)] -> xpath: //button[text()='ENROLL NOW PAY LATER']]
+2019-03-03 20:41:48 INFO  BasePage:42 - Enroll clicked
+2019-03-03 20:41:57 ERROR BasePage:43 - URL check ==>>null and payment are not matched.
+2019-03-03 20:42:09 ERROR BasePage:52 - Select Batch not clicked
